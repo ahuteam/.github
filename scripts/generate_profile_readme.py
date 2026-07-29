@@ -171,7 +171,7 @@ def generate_readme(repos: list[dict]) -> str:
     lines.append('</h1>')
     lines.append('')
     lines.append('<p align="center">')
-    lines.append('  <b>We are from an AI research team from Anhui University (安徽大学)</b><br/>')
+    lines.append('  <b>This is a research team from Anhui University (安徽大学), 由教授和优秀的学生组成。</b><br/>')
     lines.append('  Focusing on Computer Vision, Medical Image Analysis, Biometrics, and Test-Time Adaptation')
     lines.append('</p>')
     lines.append('')
