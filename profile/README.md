@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <b>An AI research team from Anhui University (安徽大学)</b><br/>
+  <b>We are from an AI research team from Anhui University (安徽大学)</b><br/>
   Focusing on Computer Vision, Medical Image Analysis, Biometrics, and Test-Time Adaptation
 </p>
 
